@@ -1,8 +1,7 @@
 # firstAppNode
 
-### Componentes del proyecto.
 
-#### Este es un proyecto realizado con Node JS y Express como base para el servidor, posee un Encarpetado deacuerdo al MVC.
+#### Este es un proyecto pequeño utilizado de ejemplo de ejemplo, básico y sencillo realizado con Node JS y Express como base para el servidor. Posee un Encarpetado deacuerdo al MVC.
 
 ### Componentes
  1. Express
